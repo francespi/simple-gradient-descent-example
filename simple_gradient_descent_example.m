@@ -3,7 +3,7 @@ clear
 close all 
 syms v
 
-%% Tune this parameters
+%% Tune these parameters
 
 % Learning rate
 eta = 0.8;
